@@ -50,40 +50,141 @@
 <p>Elisabeth Wagner is in a large lecture hall in Main Building at Drexel University. The junior mechanical engineering major is one of around 40 to 60 students in her class. Looking around at the array of heads, she can only spot a handful of fellow women in the classroom.</p>
 <div class="callout">
 <ul class="menu simple">
-<li><a href="#">Author: Mike Mikers</a></li>
+<li><a href="#">Author: Arianna Kaufman</a></li>
 <li><a href="#">Comments: 3</a></li>
 </ul>
 </div>
 </div>
 <div class="blog-post">
-<h3>Awesome blog post title <small>3/6/2015</small></h3>
+<h3>Date Rape Drugs: getting back up from the bathroom floor <small>3/6/2015</small></h3>
 <img class="thumbnail" src="http://placehold.it/850x350">
-<p>Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.</p>
+<p>I remember waking up with sweat on my forehead and the strange comfort of my cheek pressed against the cool tile of the bathroom floor. “What is your name? Where are you?</p>
 <div class="callout">
 <ul class="menu simple">
-<li><a href="#">Author: Mike Mikers</a></li>
+<li><a href="#">Author: Adelaide Key</a></li>
 <li><a href="#">Comments: 3</a></li>
 </ul>
 </div>
 </div>
 <div class="blog-post">
-<h3>Awesome blog post title <small>3/6/2015</small></h3>
-<img class="thumbnail" src="http://placehold.it/850x350">
-<p>Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.</p>
+<h3>Why Doesn’t Silicon Valley Hire Black Coders <small>3/6/2015</small></h3>
+<img class="thumbnail" src="http://www.bloomberg.com/features/2016-howard-university-coders/img/feat_howard05__03.jpg">
+<p>Howard University fights to join the tech boom. 
+In early November, I meet with Burge in a conference room in the engineering building. The walls are hung with posters displaying his students’ research, and on a whiteboard someone has scribbled a math problem. </p>
 <div class="callout">
 <ul class="menu simple">
-<li><a href="#">Author: Mike Mikers</a></li>
+<li><a href="#">Author: Vauhini Vara</a></li>
 <li><a href="#">Comments: 3</a></li>
 </ul>
 </div>
 </div>
 <div class="blog-post">
-<h3>Awesome blog post title <small>3/6/2015</small></h3>
+<h3>Worthy: Cimino has BU women heading in right direction <small>3/6/2015</small></h3>
 <img class="thumbnail" src="http://placehold.it/850x350">
-<p>Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.</p>
+<p>Whatever criticism you tossed in the direction of Binghamton University Athletic Director Pat Elliott for his Oprah phase when he started giving away contract extensions all willy-nilly, you’ve got to admit he made an inspired choice in hiring Linda Cimino as women’s basketball coach.</p>
 <div class="callout">
 <ul class="menu simple">
-<li><a href="#">Author: Mike Mikers</a></li>
+<li><a href="#">Author: Lynn Worthy</a></li>
+<li><a href="#">Comments: 3</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+<script>
+      $(document).foundation();
+    </script>
+<script type="text/javascript" src="https://intercom.zurb.com/scripts/zcom.js"></script>
+</body>
+</html>
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+<head>
+
+<meta charset="utf-8"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<title>Foundation | Welcome</title>
+
+<link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+
+<link href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
+
+ 
+</head>
+
+<body>
+ 
+<div class="top-bar">
+<div class="top-bar-left">
+<ul class="menu">
+<li class="menu-text">Blog</li>
+<li><a href="#">Arts & Entertainment</a></li>
+<li><a href="#">Science & Technology</a></li>
+<li><a href="#">Business & Entrepreneurship</a></li>
+<li><a href=“#”>Health & Medicine</a></li>
+<li><a href=“#:>Society & Culture</a></li>
+<li><a href=“#:>Sports & Recreation</a></li>
+<li><a href=“#:>Campus & Community</a></li>
+<li><a href=“#:>Special Interests</a></li>
+
+</ul>
+</div>
+</div>
+ 
+<div class="callout large primary">
+<div class="row column text-center">
+<h1>Veritas.</h1>
+<h2 class="subheader">Speak up. Speak out.</h2>
+</div>
+</div>
+ 
+<div class="row medium-8 large-7 columns">
+<div class="blog-post">
+<h3>Empowering the female engineer<small>3/6/2015</small></h3>
+<img class="thumbnail" src="http://thetriangle.org/wp-content/uploads/2015/11/women_in_engr2.jpg">
+<p>Elisabeth Wagner is in a large lecture hall in Main Building at Drexel University. The junior mechanical engineering major is one of around 40 to 60 students in her class. Looking around at the array of heads, she can only spot a handful of fellow women in the classroom.</p>
+<div class="callout">
+<ul class="menu simple">
+<li><a href="#">Author: Arianna Kaufman</a></li>
+<li><a href="#">Comments: 3</a></li>
+</ul>
+</div>
+</div>
+<div class="blog-post">
+<h3>Date Rape Drugs: getting back up from the bathroom floor <small>3/6/2015</small></h3>
+<img class="thumbnail" src="http://placehold.it/850x350">
+<p>I remember waking up with sweat on my forehead and the strange comfort of my cheek pressed against the cool tile of the bathroom floor. “What is your name? Where are you?</p>
+<div class="callout">
+<ul class="menu simple">
+<li><a href="#">Author: Adelaide Key</a></li>
+<li><a href="#">Comments: 3</a></li>
+</ul>
+</div>
+</div>
+<div class="blog-post">
+<h3>Why Doesn’t Silicon Valley Hire Black Coders <small>3/6/2015</small></h3>
+<img class="thumbnail" src="http://www.bloomberg.com/features/2016-howard-university-coders/img/feat_howard05__03.jpg">
+<p>Howard University fights to join the tech boom. 
+In early November, I meet with Burge in a conference room in the engineering building. The walls are hung with posters displaying his students’ research, and on a whiteboard someone has scribbled a math problem. </p>
+<div class="callout">
+<ul class="menu simple">
+<li><a href="#">Author: Vauhini Vara</a></li>
+<li><a href="#">Comments: 3</a></li>
+</ul>
+</div>
+</div>
+<div class="blog-post">
+<h3>Worthy: Cimino has BU women heading in right direction <small>3/6/2015</small></h3>
+<img class="thumbnail" src="http://placehold.it/850x350">
+<p>Whatever criticism you tossed in the direction of Binghamton University Athletic Director Pat Elliott for his Oprah phase when he started giving away contract extensions all willy-nilly, you’ve got to admit he made an inspired choice in hiring Linda Cimino as women’s basketball coach.</p>
+<div class="callout">
+<ul class="menu simple">
+<li><a href="#">Author: Lynn Worthy</a></li>
 <li><a href="#">Comments: 3</a></li>
 </ul>
 </div>
